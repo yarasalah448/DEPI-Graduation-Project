@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langchain-google-genai
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+pypdf
+python-dotenv
+sqlalchemy-bigquery==1.11.0
+google-cloud-bigquery-storage==2.26.0
+gradio
